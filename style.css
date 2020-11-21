@@ -1,0 +1,11 @@
+.container {
+  width: 300px;
+  padding: 50px;
+  background-color: blueviolet;
+}
+
+.name {
+  width: 100px;
+  height: 200px;
+  background-color: coral;
+}
